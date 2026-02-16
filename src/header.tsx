@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Flex } from 'antd';
 
 const Header: React.FC = () => (
-  <Flex gap="small" wrap>
+  <Flex gap="small" wrap style={{background: 'red'}}>
     <h1>Giulio's CV</h1>
     <Button>Home</Button>
     <Button>Blog</Button>
