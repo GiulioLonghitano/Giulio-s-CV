@@ -14,6 +14,16 @@ function App() {
     <Header/>
     <br/>
     <br/>
+    {/* TODO: Der Inhalt soll nach einen Code aussehen, aber verständlich nach einen Lebenslauf ablesen können. */}
+    {/* Folgendes soll noch hinzugefügt werden:
+        - Grundlegende Infos über mich
+        - Skills / Erfahrung
+        - Aktuelles Unternehmen
+        - Aktuelle Projekte
+        - Kontaktinformation
+        - Interessen
+        
+    */}
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
